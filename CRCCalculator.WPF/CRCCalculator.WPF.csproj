@@ -7,7 +7,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Prism.DryIoc" Version="7.2.0.1422" />
-    <PackageReference Include="Wonder.Core" Version="1.0.0" />
+    <PackageReference Include="Wonder.Core" Version="1.0.1" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Properties\CRC.Designer.cs">
