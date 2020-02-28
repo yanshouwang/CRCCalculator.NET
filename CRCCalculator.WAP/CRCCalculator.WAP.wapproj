@@ -56,7 +56,7 @@
     <DefaultLanguage>zh-CN</DefaultLanguage>
     <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
     <EntryPointProjectUniqueName>..\CRCCalculator.WPF\CRCCalculator.WPF.csproj</EntryPointProjectUniqueName>
-    <PackageCertificateThumbprint>969982076D57229A4F4F4756DA93CBF9766C3961</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>48CAC341EB9CC80D5590D42F3156A8B956E33BB4</PackageCertificateThumbprint>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
     <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
